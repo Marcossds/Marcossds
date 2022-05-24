@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Marcossds
+- 👀 I’m interested in linking science and programming
+- 🌱 I’m currently learning Python + Solidity
+- 💞️ You can meet me here: https://www.linkedin.com/in/marcos-salemi-17a98018/
+- 📫 How to reach me: here, in my Git!
